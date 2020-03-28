@@ -1,6 +1,6 @@
 {
   "name": "@iswa/svg",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "International SignWriting Alphabet as Scalable Vector Graphics",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itacirgabral/itacirgabral.git"
+    "url": "git+https://github.com/itacirgabral/iswasvg.git"
   },
   "keywords": [
     "iswa",
@@ -21,7 +21,7 @@
   "author": "itacir gabral",
   "license": "OFL-1.1",
   "bugs": {
-    "url": "https://github.com/itacirgabral/itacirgabral/issues"
+    "url": "https://github.com/itacirgabral/iswasvg/issues"
   },
-  "homepage": "https://github.com/itacirgabral/itacirgabral#readme"
+  "homepage": "https://github.com/itacirgabral/iswasvg#readme"
 }
