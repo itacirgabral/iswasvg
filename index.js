@@ -1,4 +1,4 @@
-module.exports = {
+export default {
   [`${__dirname}/src`]: {
     '01-01': {
       '01-01-001': [
