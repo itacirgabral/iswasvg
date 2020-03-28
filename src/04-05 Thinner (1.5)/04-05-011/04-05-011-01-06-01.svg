@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="20"
+   height="20"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="04-05-011-01-06-01.svg">
+  <defs
+     id="defs14">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 17.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="36 : 17.5 : 1"
+       inkscape:persp3d-origin="18 : 11.666667 : 1"
+       id="perspective16" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="897"
+     inkscape:window-height="755"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="10.953807"
+     inkscape:cx="9.9618826"
+     inkscape:cy="8.0876103"
+     inkscape:window-x="209"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2822" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+Valerie Sutton's pixel definition of the
+ISWA 2010 symbol ID 04-01-001-01-01-01
+transformed by Stephen E Slevinski Jr
+using line and fill polygon tracing
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 14.25 0 L 14.25 7 C 14.25 7 14.28808 11.109297 14.84375 13.0625 C 15.548433 15.539499 18.25 20 18.25 20 L 20 20 C 20 20 17.009975 15.297696 16.25 12.65625 C 15.726658 10.83727 15.75 7 15.75 7 L 15.75 0 L 14.25 0 z "
+     id="path2853" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 10,6 C 8.3431458,6 7,7.3431458 7,9 c 0,1.656854 1.3431458,3 3,3 1.656854,0 3,-1.343146 3,-3 0,-1.6568542 -1.343146,-3 -3,-3 z m 0,1 c 1.104569,0 2,0.8954305 2,2 0,1.104569 -0.895431,2 -2,2 C 8.8954305,11 8,10.104569 8,9 8,7.8954305 8.8954305,7 10,7 z"
+     id="path2903" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     id="path2908"
+     sodipodi:cx="10"
+     sodipodi:cy="10"
+     sodipodi:rx="1"
+     sodipodi:ry="1"
+     d="m 11,10 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+     transform="translate(0,-1)" />
+  <path
+     id="path2931"
+     d="M 10,6 C 8.3431458,6 7,7.3431458 7,9 c 0,1.656854 1.3431458,3 3,3 1.656854,0 3,-1.343146 3,-3 0,-1.6568542 -1.343146,-3 -3,-3 z m 0,1 c 1.104569,0 2,0.8954305 2,2 0,1.104569 -0.895431,2 -2,2 C 8.8954305,11 8,10.104569 8,9 8,7.8954305 8.8954305,7 10,7 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     d="m 11,10 a 1,1 0 1 1 -2,0 1,1 0 1 1 2,0 z"
+     sodipodi:ry="1"
+     sodipodi:rx="1"
+     sodipodi:cy="10"
+     sodipodi:cx="10"
+     id="path2933"
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     sodipodi:type="arc"
+     transform="translate(0,-1)" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 8.5454545,13.090909 C 6,13.090909 6,16 6,16 l 1.4545455,0 c 0,0 0,-1.454545 1.090909,-1.454545 C 9.6363636,14.545455 9.6363636,16 11.454546,16 14,16 14,13.090909 14,13.090909 l -1.454545,0 c 0,0 0,1.454546 -1.090909,1.454546 -1.09091,0 -1.09091,-1.454546 -2.9090915,-1.454546 z"
+     id="path2956" />
+  <path
+     id="path2878"
+     d="m 5.75,0 0,7 c 0,0 -0.03808,4.109297 -0.59375,6.0625 C 4.451567,15.539499 1.75,20 1.75,20 L 0,20 C 0,20 2.990025,15.297696 3.75,12.65625 4.273342,10.83727 4.25,7 4.25,7 l 0,-7 1.5,0 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+</svg>

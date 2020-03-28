@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="49"
+   height="13"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="02-09-002-01-01-01.svg">
+  <defs
+     id="defs16">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 23 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="36 : 23 : 1"
+       inkscape:persp3d-origin="18 : 15.333333 : 1"
+       id="perspective18" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="964"
+     inkscape:window-height="721"
+     id="namedview14"
+     showgrid="true"
+     inkscape:zoom="16.430711"
+     inkscape:cx="24.5"
+     inkscape:cy="6.5"
+     inkscape:window-x="365"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showborder="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2824"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+Valerie Sutton's pixel definition of the
+ISWA 2010 symbol ID 04-01-003-01-01-01
+transformed by Stephen E Slevinski Jr
+using line and fill polygon tracing
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 7,0 7,13 0.5,6.5 7,0 z"
+     id="path2814" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 37 3 C 33.962434 3 31.209359 4.2281415 29.21875 6.21875 L 28.375 7.375 C 26.74632 9.0036797 24.485281 9 22 9 C 19.514719 9 17.25368 9.0036797 15.625 7.375 L 14.625 6.375 C 14.082107 5.8321068 13.328427 5.5 12.5 5.5 L 7 5.5 L 7 7.5 L 12.5 7.5 C 12.776142 7.5 13.037786 7.6002856 13.21875 7.78125 L 14.21875 8.78125 C 16.209359 10.771858 18.962434 12 22 12 C 25.037566 12 27.790641 10.771858 29.78125 8.78125 L 30.625 7.625 C 32.25368 5.9963203 34.514719 5 37 5 C 39.485281 5 41.74632 5.9963203 43.375 7.625 L 47.5625 11.8125 L 49 10.40625 L 44.78125 6.21875 C 42.790641 4.2281415 40.037566 3 37 3 z "
+     id="rect2814" />
+</svg>

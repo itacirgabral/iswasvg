@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="28"
+   height="32"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="02-05-017-01-01-08.svg">
+  <defs
+     id="defs16">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 23 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="36 : 23 : 1"
+       inkscape:persp3d-origin="18 : 15.333333 : 1"
+       id="perspective18" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="964"
+     inkscape:window-height="721"
+     id="namedview14"
+     showgrid="true"
+     inkscape:zoom="14.78125"
+     inkscape:cx="14"
+     inkscape:cy="16"
+     inkscape:window-x="365"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showborder="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2824"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+Valerie Sutton's pixel definition of the
+ISWA 2010 symbol ID 04-01-003-01-01-01
+transformed by Stephen E Slevinski Jr
+using line and fill polygon tracing
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="m 11.000001,4.0000015 c 7.179702,-3e-7 12.999999,5.8202977 13,13.0000005 l -1,0 C 23,10.372583 17.627418,5.0000008 11.000001,5.0000018 l -2,-7e-7 0,-1.0000003 2,7e-7 z"
+     id="path2910" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 24.041631,5.3725839 1.4142145,28 4e-7,26.585787 22.627418,3.9583703 24.041631,5.3725839 z"
+     id="path2831" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     d="m 11.000001,5.0000018 c 6.627417,-1e-6 11.999999,5.3725812 12,12.0000002 L 20,17 c -1e-6,-4.970564 -4.029437,-8.9999982 -8.999999,-8.9999987 l -2,-7e-7 0,-2.9999995 2,7e-7 z"
+     id="path2918" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 11.000001,8.0000013 C 15.970563,8.0000018 19.999999,12.029436 20,17 l -0.999999,2e-6 c -1e-6,-4.41828 -3.581722,-8.0000013 -8,-8.0000004 l -2,-7e-7 -2e-6,-1.0000017 2.000002,2.1e-6 z"
+     id="path2923" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 15.999999,17.000001 21.5,22.5 l 5.500001,-5.499998 -11.000002,-10e-7 z"
+     id="path2964" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 18.100505,2.1e-7 28.000001,9.8994952 28,0 18.100505,2.1e-7 z"
+     id="path2966" />
+  <path
+     id="path3368"
+     d="M 2.0000003,13 C 9.179702,13 15,18.820298 14.999999,26 l -1,0 C 14,19.372583 8.627418,14.000001 2.0000005,14 L 9e-7,14.000001 6e-7,12.999999 2.0000003,13 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     id="path3370"
+     d="M 2.0000005,14 C 8.627418,14.000001 14,19.372583 13.999999,26 l -3,-1e-6 C 10.999999,21.029436 6.970563,17 2.0000003,17 L 4e-7,16.999999 9e-7,14.000001 2.0000005,14 z"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" />
+  <path
+     id="path3372"
+     d="m 2.0005018,17.000001 c 4.9705632,0 8.9999992,4.029436 8.9999992,8.999999 l -1,1e-6 C 10.0005,21.581721 6.418779,18 2.0005013,18 l -1.9999997,0 -8e-7,-1 2.000001,1e-6 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     id="path3374"
+     d="M 6.999998,26 12.5,31.5 18,26.000001 6.999998,26 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+</svg>

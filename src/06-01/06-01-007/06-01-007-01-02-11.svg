@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="25"
+   height="33"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="06-01-007-01-01-11.svg">
+  <defs
+     id="defs14">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 5.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="10 : 5.5 : 1"
+       inkscape:persp3d-origin="5 : 3.6666667 : 1"
+       id="perspective16" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="917"
+     inkscape:window-height="792"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="16.484848"
+     inkscape:cx="12.5"
+     inkscape:cy="16.5"
+     inkscape:window-x="313"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     inkscape:snap-center="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2822"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+Valerie Sutton's pixel definition of the
+ISWA 2010 symbol ID 02-01-001-01-01-01
+transformed by Stephen E Slevinski Jr
+using line and fill polygon tracing
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     d="M 4.5 9 C 2.6412866 9 0.99560152 9.9321358 0 11.34375 L 0 14.5 C 0 12.014719 2.0147186 10 4.5 10 C 6.9852814 10 9 12.014719 9 14.5 C 9 16.985281 6.9852814 19 4.5 19 C 2.0147186 19 0 16.985281 0 14.5 L 0 17.65625 C 0.99560152 19.067864 2.6412866 20 4.5 20 C 7.5375661 20 10 17.537566 10 14.5 C 10 11.462434 7.5375661 9 4.5 9 z "
+     id="path2945" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     d="M 7 0 L 7 2.71875 L 0.46875 14 L 9.21875 29.15625 C 8.5178815 28.613496 7.8247021 28 7 28 L 6 28 C 4.509288 28 3.490712 30 2 30 L 0 30 L 0 31 L 2 31 C 3.490712 31 4.509288 29 6 29 L 7 29 C 8.490712 29 9.509288 31 11 31 L 11 30 L 1.65625 14 L 8 3 L 8 0 L 7 0 z M 10.3125 3 L 3.9375 14 L 13 29.6875 L 13 33 L 14 33 L 14 29.40625 L 5.125 14 L 10.90625 4 L 25 4 L 25 3 L 10.3125 3 z M 6 31 C 4.509288 31 3.490712 33 2 33 L 4 33 C 4.627322 32.5 5.254644 32 6 32 L 7 32 C 7.745356 32 8.372678 32.5 9 33 L 11 33 C 9.509288 33 8.490712 31 7 31 L 6 31 z "
+     id="path2832" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 8 0 L 8 3 L 1.65625 14 L 11 30.21875 L 11 31 C 9.509288 31 8.490712 29 7 29 L 6 29 C 4.509288 29 3.490712 31 2 31 L 0 31 L 0 33 L 2 33 C 3.490712 33 4.509288 31 6 31 L 7 31 C 8.490712 31 9.509288 33 11 33 L 13 33 L 13 29.6875 L 3.9375 14 L 10.3125 3 L 25 3 L 25 0 L 8 0 z "
+     id="path2822" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 4.5,10 C 2.0147186,10 0,12.014719 0,14.5 0,16.985281 2.0147186,19 4.5,19 6.9852814,19 9,16.985281 9,14.5 9,12.014719 6.9852814,10 4.5,10 z"
+     id="path3007" />
+</svg>

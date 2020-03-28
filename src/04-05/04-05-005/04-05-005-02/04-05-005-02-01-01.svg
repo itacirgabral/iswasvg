@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="35"
+   height="35"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="04-05-005-01-01-01.svg">
+  <defs
+     id="defs14">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 17.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="36 : 17.5 : 1"
+       inkscape:persp3d-origin="18 : 11.666667 : 1"
+       id="perspective16" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="993"
+     inkscape:window-height="789"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="15.487127"
+     inkscape:cx="18"
+     inkscape:cy="17.5"
+     inkscape:window-x="209"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2822" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+Valerie Sutton's pixel definition of the
+ISWA 2010 symbol ID 04-03-001-01-01-01
+transformed by Stephen E Slevinski Jr
+using line and fill polygon tracing
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 17.5 0 C 7.8350169 4.7369516e-15 1.087327e-16 7.8350169 0 17.5 C 0 27.164983 7.8350169 35 17.5 35 C 27.164983 35 35 27.164983 35 17.5 C 35 7.8350169 27.164983 -3.443981e-15 17.5 0 z M 17.5 2 C 26.060414 2 33 8.9395864 33 17.5 C 33 26.060414 26.060414 33 17.5 33 C 8.9395864 33 2 26.060414 2 17.5 C 2 8.9395864 8.9395864 2 17.5 2 z "
+     id="path2824" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 14 22 C 11.784 22 10 23.784 10 26 C 10 28.216 11.784 30 14 30 L 21 30 C 23.216 30 25 28.216 25 26 C 25 23.784 23.216 22 21 22 L 14 22 z M 14 24 L 14 28 C 12.892 28 12 27.108 12 26 C 12 24.892 12.892 24 14 24 z M 15 24 L 17 24 L 17 28 L 15 28 L 15 24 z M 18 24 L 20 24 L 20 28 L 18 28 L 18 24 z M 21 24 C 22.108 24 23 24.892 23 26 C 23 27.108 22.108 28 21 28 L 21 24 z "
+     id="rect3028" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 5 18 L 5 19 L 4 19 L 4 20 L 5 20 L 5 22 L 4 22 L 4 23 L 5 23 L 5 24 L 6 24 L 6 23 L 8 23 L 8 24 L 9 24 L 9 23 L 10 23 L 10 22 L 9 22 L 9 20 L 10 20 L 10 19 L 9 19 L 9 18 L 8 18 L 8 19 L 6 19 L 6 18 L 5 18 z M 6 20 L 8 20 L 8 22 L 6 22 L 6 20 z "
+     id="rect3066" />
+  <path
+     id="path3075"
+     d="m 26,18 0,1 -1,0 0,1 1,0 0,2 -1,0 0,1 1,0 0,1 1,0 0,-1 2,0 0,1 1,0 0,-1 1,0 0,-1 -1,0 0,-2 1,0 0,-1 -1,0 0,-1 -1,0 0,1 -2,0 0,-1 -1,0 z m 1,2 2,0 0,2 -2,0 0,-2 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+</svg>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="15"
+   height="70"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="07-01-001-01-03-07.svg">
+  <defs
+     id="defs14">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 5.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="10 : 5.5 : 1"
+       inkscape:persp3d-origin="5 : 3.6666667 : 1"
+       id="perspective16" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="917"
+     inkscape:window-height="792"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="7.7714286"
+     inkscape:cx="7.5"
+     inkscape:cy="35"
+     inkscape:window-x="313"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showborder="true"
+     inkscape:showpageshadow="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2822"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+Valerie Sutton's pixel definition of the
+ISWA 2010 symbol ID 02-01-001-01-01-01
+transformed by Stephen E Slevinski Jr
+using line and fill polygon tracing
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 11,70 11,7 9,7 9,70 11,70 z"
+     id="rect2813" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 5,70 5,7 3,7 3,70 5,70 z"
+     id="rect2815" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     d="M 7.5 1.5 C 5.77383 1.5 4.1923051 2.1759289 3 3.25 L 3 7 L 5 7 L 5 70 L 9 70 L 9 7 L 11 7 L 11 2.5 C 9.9791374 1.8752743 8.7806404 1.5 7.5 1.5 z "
+     id="rect2840" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="m 7.5,0 c 3.666298,0 6.723779,2.5684093 7.5,6 L 13.84375,6 C 12.931555,3.3838151 10.427178,1.5 7.5,1.5 4.572822,1.5 2.068446,3.3838151 1.15625,6 L 0,6 C 0.776221,2.5684093 3.833702,0 7.5,0 z"
+     id="path2901" />
+</svg>

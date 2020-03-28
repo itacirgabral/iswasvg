@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="30"
+   height="28"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="02-03-017-01-06-10.svg">
+  <defs
+     id="defs16">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 23 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="36 : 23 : 1"
+       inkscape:persp3d-origin="18 : 15.333333 : 1"
+       id="perspective18" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="964"
+     inkscape:window-height="721"
+     id="namedview14"
+     showgrid="true"
+     inkscape:zoom="12.64"
+     inkscape:cx="16.069802"
+     inkscape:cy="14.653698"
+     inkscape:window-x="365"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showborder="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2824"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+Valerie Sutton's pixel definition of the
+ISWA 2010 symbol ID 04-01-003-01-01-01
+transformed by Stephen E Slevinski Jr
+using line and fill polygon tracing
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 6.3639611,3.535534 26.870058,24.041631 27.577164,23.334524 7.0710682,2.828427 6.3639611,3.535534 z"
+     id="path2831" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 0,9.8994948 0,0 9.8994952,0 7.88866,2.010835 l -5.8778252,0 0,5.8778251 L 0,9.8994948 z"
+     id="path2966" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 2.8284272,7.071068 23.334524,27.577165 24.04163,26.870058 3.535534,6.363961 2.8284272,7.071068 z"
+     id="path2833" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="m 21.987028,5.995653 -5.502174,-5.502174 -5.502175,5.502174 1.414214,0 4.087961,-4.087961 4.087961,4.087961 1.414213,0 z"
+     id="path3018" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     d="M 3.535534,6.363961 24.04163,26.870058 26.870058,24.041631 6.3639611,3.535534 3.535534,6.363961 z"
+     id="rect2821" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="m 3.9779029,16.005634 2.0108345,-0.0221 c 2.2679771,-0.237703 4.5454616,-1.805423 6.3639606,-3.623923 1.8185,-1.818499 3.386221,-4.095984 3.623923,-6.363961 l 1.016466,0 c 0,2.8151458 -1.078292,5.630291 -3.226175,7.778175 C 11.619028,15.921708 8.8038845,17 5.9887374,17 L 4,17 3.977903,16.005631 z"
+     id="path3020" />
+  <path
+     id="path2998"
+     d="m 29.987029,13.995651 -5.502175,-5.5021749 -5.502174,5.5021749 1.414213,0 4.087961,-4.0879612 4.087961,4.0879612 1.414214,0 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     id="path3000"
+     d="m 11.977903,24.005631 2.010835,-0.0221 c 2.267977,-0.237702 4.545461,-1.805422 6.363961,-3.623922 1.8185,-1.8185 3.38622,-4.095985 3.623922,-6.363961 l 1.016466,0 c 1e-6,2.815145 -1.078291,5.630291 -3.226174,7.778175 -2.147884,2.147883 -4.963029,3.226174 -7.778175,3.226174 l -1.988738,0 -0.0221,-0.994369 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+</svg>

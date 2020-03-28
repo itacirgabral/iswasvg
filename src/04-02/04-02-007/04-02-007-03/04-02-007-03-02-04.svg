@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="26"
+   height="9"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="04-02-007-03-02-04.svg">
+  <defs
+     id="defs14">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 3.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="7 : 3.5 : 1"
+       inkscape:persp3d-origin="3.5 : 2.3333333 : 1"
+       id="perspective16" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="928"
+     inkscape:window-height="791"
+     id="namedview12"
+     showgrid="true"
+     inkscape:zoom="31.452542"
+     inkscape:cx="12.394149"
+     inkscape:cy="4.6864407"
+     inkscape:window-x="273"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2822" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+Valerie Sutton's pixel definition of the
+ISWA 2010 symbol ID 04-02-007-01-04-01
+transformed by Stephen E Slevinski Jr
+using line and fill polygon tracing
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="m 2.525e-4,6 0,-5 1.0000561,0 0,4 4.0002245,0 0,1 -5.0002806,0 z"
+     id="path2841" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 1.0503114,2.8284271 3.8788974,0 4.5860437,0.7071068 1.7574579,3.5355339 1.0503114,2.8284271 z"
+     id="rect2849" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 2.4646044,4.2426407 5.2931902,1.4142136 6.0003367,2.1213203 3.1717509,4.9497475 2.4646044,4.2426407 z"
+     id="rect2851" />
+  <path
+     id="path2881"
+     d="m 11.000281,3 0,5 -1.000056,0 0,-4 L 6,4 6,3 11.000281,3 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     id="path2883"
+     d="M 9.9502217,6.1715729 7.1216357,9 6.4144894,8.292893 9.2430752,5.4644661 9.9502217,6.1715729 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     id="path2885"
+     d="M 8.5359287,4.757359 5.7073429,7.5857864 5.0001964,6.8786797 7.8287822,4.050252 8.5359287,4.757359 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     id="path2842"
+     d="m 14.999944,6 0,-5 L 16,1 l 0,4 4.000224,0 0,1 -5.00028,0 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     id="path2844"
+     d="M 16.050002,2.8284271 18.878588,0 19.585735,0.7071068 16.757149,3.5355339 16.050002,2.8284271 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     id="path2846"
+     d="M 17.464295,4.2426407 20.292881,1.4142136 21.000028,2.1213203 18.171442,4.9497475 17.464295,4.2426407 z"
+     style="fill:#000000;fill-opacity:1;stroke:none" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="m 25.999972,3 0,5 -1.000056,0 0,-4 -4.000225,0 0,-1 5.000281,0 z"
+     id="path2848" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 24.949913,6.1715729 22.121327,9 21.41418,8.292893 24.242766,5.4644661 24.949913,6.1715729 z"
+     id="path2850" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 23.53562,4.757359 20.707034,7.5857864 19.999887,6.8786797 22.828473,4.050252 23.53562,4.757359 z"
+     id="path2852" />
+</svg>

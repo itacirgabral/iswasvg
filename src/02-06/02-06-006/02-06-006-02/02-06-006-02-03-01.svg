@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="15"
+   height="35"
+   id="svg2"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="02-06-006-02-01-01.svg">
+  <defs
+     id="defs16">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 23 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="36 : 23 : 1"
+       inkscape:persp3d-origin="18 : 15.333333 : 1"
+       id="perspective18" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="964"
+     inkscape:window-height="721"
+     id="namedview14"
+     showgrid="true"
+     inkscape:zoom="13.514286"
+     inkscape:cx="7.5"
+     inkscape:cy="17.5"
+     inkscape:window-x="365"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     showborder="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2824"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4">
+Valerie Sutton's pixel definition of the
+ISWA 2010 symbol ID 04-01-003-01-01-01
+transformed by Stephen E Slevinski Jr
+using line and fill polygon tracing
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 0 0 L 0 12 L 2 10 L 2 2 L 10 2 L 12 0 L 0 0 z "
+     id="path3051" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 4.59375 7.40625 L 3.53125 8.46875 L 7.28125 12.21875 C 7.733661 12.671161 8 13.309644 8 14 C 8 14.690356 7.733661 15.328839 7.28125 15.78125 L 4.78125 18.28125 C 3.062088 20.000412 2 22.376647 2 25 C 2 27.623352 3.062088 29.999588 4.78125 31.71875 L 8.0625 35 L 9.125 33.9375 L 5.84375 30.65625 C 4.396035 29.208535 3.5 27.209139 3.5 25 C 3.5 22.790861 4.396035 20.791465 5.84375 19.34375 L 8.34375 16.84375 C 9.0676076 16.119892 9.5 15.10457 9.5 14 C 9.5 12.89543 9.0676076 11.880108 8.34375 11.15625 L 4.59375 7.40625 z "
+     id="path3088" />
+  <path
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     d="M 7.40625 4.59375 L 4.59375 7.40625 L 8.34375 11.15625 C 9.0676076 11.880108 9.5 12.89543 9.5 14 C 9.5 15.10457 9.0676076 16.119892 8.34375 16.84375 L 5.84375 19.34375 C 4.396035 20.791465 3.5 22.790861 3.5 25 C 3.5 27.209139 4.396035 29.208535 5.84375 30.65625 L 9.125 33.9375 L 11.9375 31.125 L 8.65625 27.84375 C 7.9323924 27.119892 7.5 26.10457 7.5 25 C 7.5 23.89543 7.9323924 22.880108 8.65625 22.15625 L 11.15625 19.65625 C 12.603965 18.208535 13.5 16.209139 13.5 14 C 13.5 11.790861 12.603965 9.7914652 11.15625 8.34375 L 7.40625 4.59375 z "
+     id="path3086" />
+  <path
+     style="fill:#000000;fill-opacity:1;stroke:none"
+     d="M 8.46875 3.53125 L 7.40625 4.59375 L 11.15625 8.34375 C 12.603965 9.7914652 13.5 11.790861 13.5 14 C 13.5 16.209139 12.603965 18.208535 11.15625 19.65625 L 8.65625 22.15625 C 7.9323924 22.880108 7.5 23.89543 7.5 25 C 7.5 26.10457 7.9323924 27.119892 8.65625 27.84375 L 11.9375 31.125 L 13 30.0625 L 9.71875 26.78125 C 9.266339 26.328839 9 25.690356 9 25 C 9 24.309644 9.266339 23.671161 9.71875 23.21875 L 12.21875 20.71875 C 13.937912 18.999588 15 16.623352 15 14 C 15 11.376647 13.937912 9.0004119 12.21875 7.28125 L 8.46875 3.53125 z "
+     id="rect3055" />
+</svg>
