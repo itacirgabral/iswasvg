@@ -1,12 +1,11 @@
 {
   "name": "@iswa/svg",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "International SignWriting Alphabet as Scalable Vector Graphic",
   "exports": "./index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "publish":"npm publish --access public"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
